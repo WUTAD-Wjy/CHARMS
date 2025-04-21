@@ -34,8 +34,10 @@ For testing, copy the .py file in exp to test/, and run with python
 
 ## 📊 Results
 
-<video src="assets/edge_case_video.mp4" controls width="600"></video>
-<p align="center"><i>CHARMS-generated edge case</i></p>
+<p align="center">
+  <img src="assets/scenario.png" width="500"/><br>
+  <i>CHARMS-generated edge case</i>
+</p>
 
 ### Decision-Making Performance Evaluation of Different EGO Models
 
@@ -47,11 +49,15 @@ For testing, copy the .py file in exp to test/, and run with python
 | Prior Level-k    | 0.023          | 0.487            | **32.19** | 5.399   | 0.007   | 0.024           |
 | CHARMS           | **0.004**      | **0.068**        | 29.38     | 2.364   | **0.002** | **0.007**     |
 
-<img src="assets/speed_distribution_hist.png" width="500"/>
-<p align="center"><i>Speed Distribution Histogram</i></p>
+<p align="center">
+  <img src="assets/speed_distribution_hist.png" width="500"/><br>
+  <i>Car FollowingSpeed Distribution Comparison</i>
+</p>
 
-<img src="assets/lane_change_dhw_distribution.png" width="500"/>
-<p align="center"><i>Lane Change DHW Distribution</i></p>
+<p align="center">
+  <img src="assets/lane_change_dhw_distribution.png" width="500"/><br>
+  <i>Lane Change DHW Distribution Comparison</i>
+</p>
 
 ## 📚 Citation
 
