@@ -6,7 +6,7 @@
 
 ## 🧠 Introduction
 <p align="center">
-  <img src="assets/pipeline.png" width="600"/>
+  <img src="assets/pipeline.png" width="400"/>
 </p>
 Leveraging Level-k game theory, we model human driver decision-making using reinforcement learning pretraining and supervised fine-tuning. This enables the resulting models to exhibit diverse behaviors, improving the intelligence and realism of surrounding vehicles in simulation. Building upon this capability, we further develop a scenario generation framework that utilizes the Poisson cognitive hierarchy theory to control the distribution of vehicles with different driving styles through Poisson and binomial sampling.
 
