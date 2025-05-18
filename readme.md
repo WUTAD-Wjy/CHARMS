@@ -1,7 +1,7 @@
 # CHARMS: A Cognitive Hierarchical Agent for Reasoning and Motion Stylization in Autonomous Driving
 
 ## 📄 Paper Information
-**Jingyi Wang, Duanfeng Chu\*, Zejian Deng, Liping Lu and Pan Zhou**  
+**Jingyi Wang, Duanfeng Chu\*, Zejian Deng, Liping Lu, Jinxiang Wang and Chen Sun**  
 [arXiv:2504.02450](https://arxiv.org/abs/2504.02450#)
 
 ## 🧠 Introduction
